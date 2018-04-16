@@ -1,0 +1,5 @@
+https://docs.fabric.io/android/examples/cannonball/index.html
+https://docs.fabric.io/android/fabric/settings/notification.html
+https://docs.fabric.io/android/fabric/settings/organization.html
+https://firebase.google.com/docs/auth/android/start/
+https://firebase.google.com/docs/
